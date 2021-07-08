@@ -1,0 +1,11 @@
+.btn-medium {
+  display: inline-block;
+  background-color: #1EDD88;
+  padding: 18px 24px;
+  border-radius: 50px;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
